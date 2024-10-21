@@ -1,0 +1,122 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Runtime.CompilerServices;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows;
+using System.Windows.Automation.Peers;
+using System.Windows.Controls;
+using System.Windows.Data;
+using System.Windows.Documents;
+using System.Windows.Input;
+using System.Windows.Media;
+using System.Windows.Media.Imaging;
+using System.Windows.Navigation;
+using System.Windows.Shapes;
+
+namespace WpfApp1
+{
+    /// <summary>
+    /// Interaction logic for NoteGuesser.xaml
+    /// </summary>
+    public partial class NoteGuesser : Page
+    {
+        private NotesController controller;
+        private int note;
+        private int guesses=0;
+        private int failures = 0;
+        public NoteGuesser(NotesController c)
+        {
+            controller = c;
+            InitializeComponent();
+        }
+
+        private void pgLoad(object sender, RoutedEventArgs e)
+        {
+            var notesList = new List<Tuple<string, int>>();
+            foreach (NotesController.Notes note in Enum.GetValues(typeof(NotesController.Notes)))
+            {
+                notesList.Add(Tuple.Create(note.ToString(), (int)note));
+            }
+            listBoxNotes.ItemsSource = notesList;
+            listBoxNotes.DisplayMemberPath = "Item1";
+            PlayNote();
+        }
+
+        private void pgKeyDown(object sender, KeyEventArgs e)
+        {
+            switch (e.Key)
+            {
+                case Key.F1:
+                    PlayNote(false);
+                    break;
+            }
+        }
+        private void btnReplay(object sender, RoutedEventArgs e)
+        {
+            PlayNote(false);
+        }
+private async void btnSubmit(object sender, RoutedEventArgs e)
+        {
+            var selectedNote = (Tuple<string, int>)listBoxNotes.SelectedItem;
+
+            if (selectedNote.Item2+12*Settings.Default.Octave == note)
+            {
+                guesses++;
+                if(Settings.Default.PlayMorseMessages) controller.MSController.Transmit("k");
+                Announce("guessed. Nice!");
+            }
+            else
+            {
+                failures++;
+                if(Settings.Default.PlayMorseMessages) controller.MSController.Transmit("0");
+                Announce("Wrong! The right answer was " + (NotesController.Notes)note + ".");
+            }
+            await Task.Delay(1000);
+            PlayNote();
+        }
+
+        private void PlayNote(bool regenerate=true)
+        {
+            listBoxNotes.SelectedIndex = 0;
+            if(regenerate) note = new Random().Next(60, 72) + Settings.Default.Octave * 12;
+            controller.PlayNote(note);
+        }
+        private void btnExit(object sender, RoutedEventArgs e)
+        {
+            string mesage = "you got " + guesses + " notes correct and " + failures + " wrong. ";
+            if (guesses < Settings.Default.Guesses) mesage += "Worse than last time when you played";
+            else mesage += "you're becoming better and better!";
+            MessageBox.Show(mesage, "Your score", MessageBoxButton.OK, MessageBoxImage.Asterisk);
+            controller.MSController.Transmit("" + guesses + "/" + failures);
+            Settings.Default.Guesses += guesses;
+            Settings.Default.Failures += failures;
+            Settings.Default.Save();
+            //controller.Dispose();
+            NavigationService.GoBack();
+            
+        }
+
+        private void Announce(string text)
+        {
+            if (Settings.Default.AnnounceLiveRegions)
+            {
+                var peer = UIElementAutomationPeer.FromElement(answerLBL);
+                answerLBL.Text = text;
+                if (peer != null) peer.RaiseAutomationEvent(AutomationEvents.LiveRegionChanged);
+                else
+                {
+                    peer = UIElementAutomationPeer.CreatePeerForElement(answerLBL);
+                    answerLBL.Text = text;
+                    peer.RaiseAutomationEvent(AutomationEvents.LiveRegionChanged);
+                }
+            }
+            else
+            {
+                MessageBox.Show(text);
+            }
+            }
+
+        }
+    }

@@ -1,0 +1,20 @@
+﻿<Window x:Class="WpfApp1.SelectTimerDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="Select octave and instrument" Height="450" Width="800" Loaded="windowLoad">
+    <Grid>
+        <TextBlock Text="Choose your instrument"/>
+        <ListBox x:Name="listInstrument" AutomationProperties.Name="Choose your instrument"/>
+        <TextBlock Text="Choose the octave"/>
+        <ComboBox x:Name="cbxOct" AutomationProperties.Name="Choose the octave" SelectedItem="{Binding Octave}"/>
+        <TextBlock Text="Type how many minutes you want to practice"/>
+        <TextBox x:Name="txtBoxTimerSelector" AutomationProperties.Name="Type how many minutes you want to practice"/>
+        <Button Content="Cancel" IsCancel="True"/>
+        <Button Content="Start" IsDefault="True" Click="btnStart"/>
+    </Grid>
+</Window>
+    

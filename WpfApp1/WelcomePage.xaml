@@ -1,0 +1,23 @@
+﻿<Page x:Class="WpfApp1.WelcomePage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfApp1"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Initial setup">
+
+    <Grid>
+        <StackPanel>
+            <TextBlock Text="Before to get started, we need to setup your profile"/>
+        </StackPanel>
+        <StackPanel Orientation="Vertical">
+            <TextBlock Text="Your name"/>
+            <TextBox x:Name="txtBoxName" Text="{ Binding Name}" AutomationProperties.Name="Enter your name"/>
+            <TextBlock Text="Choose your default octave"/>
+            <ComboBox x:Name="cbxOct" AutomationProperties.Name="Choose your default octave" SelectedValue="{Binding Path=Octave}"/>
+        </StackPanel>
+        <Button Content="Finish" Click="btnFinish"/>
+    </Grid>
+</Page>

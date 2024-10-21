@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gruia\\Downloads\\WpfApp1\\WpfApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63F80C50-C133-4639-9C2F-19014EBDDC90}|WpfApp1\\WpfApp1.csproj|C:\\Users\\Gruia\\Downloads\\WpfApp1\\WpfApp1\\wpfapp1\\noteguesser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63F80C50-C133-4639-9C2F-19014EBDDC90}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\noteguesser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F80C50-C133-4639-9C2F-19014EBDDC90}|WpfApp1\\WpfApp1.csproj|c:\\users\\gruia\\downloads\\wpfapp1\\wpfapp1\\wpfapp1\\timerchallengepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63F80C50-C133-4639-9C2F-19014EBDDC90}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\timerchallengepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F80C50-C133-4639-9C2F-19014EBDDC90}|WpfApp1\\WpfApp1.csproj|C:\\Users\\Gruia\\Downloads\\WpfApp1\\WpfApp1\\wpfapp1\\texttomorse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63F80C50-C133-4639-9C2F-19014EBDDC90}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\texttomorse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F80C50-C133-4639-9C2F-19014EBDDC90}|WpfApp1\\WpfApp1.csproj|C:\\Users\\Gruia\\Downloads\\WpfApp1\\WpfApp1\\wpfapp1\\welcomepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63F80C50-C133-4639-9C2F-19014EBDDC90}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\welcomepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F80C50-C133-4639-9C2F-19014EBDDC90}|WpfApp1\\WpfApp1.csproj|C:\\Users\\Gruia\\Downloads\\WpfApp1\\WpfApp1\\wpfapp1\\timerchallengepage.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{63F80C50-C133-4639-9C2F-19014EBDDC90}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\timerchallengepage.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F80C50-C133-4639-9C2F-19014EBDDC90}|WpfApp1\\WpfApp1.csproj|C:\\Users\\Gruia\\Downloads\\WpfApp1\\WpfApp1\\wpfapp1\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63F80C50-C133-4639-9C2F-19014EBDDC90}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F80C50-C133-4639-9C2F-19014EBDDC90}|WpfApp1\\WpfApp1.csproj|C:\\Users\\Gruia\\Downloads\\WpfApp1\\WpfApp1\\wpfapp1\\noteguesser.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{63F80C50-C133-4639-9C2F-19014EBDDC90}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\noteguesser.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F80C50-C133-4639-9C2F-19014EBDDC90}|WpfApp1\\WpfApp1.csproj|C:\\Users\\Gruia\\Downloads\\WpfApp1\\WpfApp1\\wpfapp1\\welcomepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{63F80C50-C133-4639-9C2F-19014EBDDC90}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\welcomepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F80C50-C133-4639-9C2F-19014EBDDC90}|WpfApp1\\WpfApp1.csproj|C:\\Users\\Gruia\\Downloads\\WpfApp1\\WpfApp1\\wpfapp1\\settingsdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{63F80C50-C133-4639-9C2F-19014EBDDC90}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\settingsdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F80C50-C133-4639-9C2F-19014EBDDC90}|WpfApp1\\WpfApp1.csproj|C:\\Users\\Gruia\\Downloads\\WpfApp1\\WpfApp1\\wpfapp1\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{63F80C50-C133-4639-9C2F-19014EBDDC90}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TimerChallengePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Gruia\\Downloads\\WpfApp1\\WpfApp1\\WpfApp1\\TimerChallengePage.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\TimerChallengePage.xaml.cs",
+              "ToolTip": "C:\\Users\\Gruia\\Downloads\\WpfApp1\\WpfApp1\\WpfApp1\\TimerChallengePage.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\TimerChallengePage.xaml.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAAEEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T15:00:47.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NoteGuesser.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Gruia\\Downloads\\WpfApp1\\WpfApp1\\WpfApp1\\NoteGuesser.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\NoteGuesser.xaml.cs",
+              "ToolTip": "C:\\Users\\Gruia\\Downloads\\WpfApp1\\WpfApp1\\WpfApp1\\NoteGuesser.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\NoteGuesser.xaml.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAuwDIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T14:59:29.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TimerChallengePage.xaml",
+              "DocumentMoniker": "C:\\Users\\Gruia\\Downloads\\WpfApp1\\WpfApp1\\WpfApp1\\TimerChallengePage.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\TimerChallengePage.xaml",
+              "ToolTip": "C:\\Users\\Gruia\\Downloads\\WpfApp1\\WpfApp1\\WpfApp1\\TimerChallengePage.xaml",
+              "RelativeToolTip": "WpfApp1\\TimerChallengePage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-26T19:53:57.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NoteGuesser.xaml",
+              "DocumentMoniker": "C:\\Users\\Gruia\\Downloads\\WpfApp1\\WpfApp1\\WpfApp1\\NoteGuesser.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\NoteGuesser.xaml",
+              "ToolTip": "C:\\Users\\Gruia\\Downloads\\WpfApp1\\WpfApp1\\WpfApp1\\NoteGuesser.xaml",
+              "RelativeToolTip": "WpfApp1\\NoteGuesser.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-26T19:52:43.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Settings.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Gruia\\Downloads\\WpfApp1\\WpfApp1\\WpfApp1\\Settings.Designer.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Settings.Designer.cs",
+              "ToolTip": "C:\\Users\\Gruia\\Downloads\\WpfApp1\\WpfApp1\\WpfApp1\\Settings.Designer.cs",
+              "RelativeToolTip": "WpfApp1\\Settings.Designer.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T19:48:47.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TextToMorse.cs",
+              "DocumentMoniker": "C:\\Users\\Gruia\\Downloads\\WpfApp1\\WpfApp1\\WpfApp1\\TextToMorse.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\TextToMorse.cs",
+              "ToolTip": "C:\\Users\\Gruia\\Downloads\\WpfApp1\\WpfApp1\\WpfApp1\\TextToMorse.cs",
+              "RelativeToolTip": "WpfApp1\\TextToMorse.cs",
+              "ViewState": "AgIAAN8AAAAAAAAAAAAAAOMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T19:40:09.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WelcomePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Gruia\\Downloads\\WpfApp1\\WpfApp1\\WpfApp1\\WelcomePage.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\WelcomePage.xaml.cs",
+              "ToolTip": "C:\\Users\\Gruia\\Downloads\\WpfApp1\\WpfApp1\\WpfApp1\\WelcomePage.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\WelcomePage.xaml.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAuwC4AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T08:40:08.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WelcomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\Gruia\\Downloads\\WpfApp1\\WpfApp1\\WpfApp1\\WelcomePage.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\WelcomePage.xaml",
+              "ToolTip": "C:\\Users\\Gruia\\Downloads\\WpfApp1\\WpfApp1\\WpfApp1\\WelcomePage.xaml",
+              "RelativeToolTip": "WpfApp1\\WelcomePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-26T19:50:55.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SettingsDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\Gruia\\Downloads\\WpfApp1\\WpfApp1\\WpfApp1\\SettingsDialog.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\SettingsDialog.xaml",
+              "ToolTip": "C:\\Users\\Gruia\\Downloads\\WpfApp1\\WpfApp1\\WpfApp1\\SettingsDialog.xaml",
+              "RelativeToolTip": "WpfApp1\\SettingsDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-26T19:49:55.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "C:\\Users\\Gruia\\Downloads\\WpfApp1\\WpfApp1\\WpfApp1\\Settings.settings",
+              "RelativeDocumentMoniker": "WpfApp1\\Settings.settings",
+              "ToolTip": "C:\\Users\\Gruia\\Downloads\\WpfApp1\\WpfApp1\\WpfApp1\\Settings.settings",
+              "RelativeToolTip": "WpfApp1\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2024-09-26T19:48:31.584Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
