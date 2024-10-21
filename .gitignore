@@ -1,0 +1,9 @@
+*.exe
+*.obj
+*.lib
+*.dll
+MNR/bin/
+MNR/obj/
+.vs/
+# .net packages as the .sln file will restore them once opened
+packages/
