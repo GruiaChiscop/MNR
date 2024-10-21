@@ -1,16 +1,48 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Gruia\\Downloads\\WpfApp1\\WpfApp1\\",
+  "WorkspaceRootPath": "C:\\Users\\Gruia\\Downloads\\WpfApp1\\MNR\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{63F80C50-C133-4639-9C2F-19014EBDDC90}|WpfApp1\\MNR.csproj|c:\\users\\gruia\\downloads\\wpfapp1\\wpfapp1\\wpfapp1\\mailtodialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63F80C50-C133-4639-9C2F-19014EBDDC90}|WpfApp1\\MNR.csproj|solutionrelative:wpfapp1\\mailtodialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{63F80C50-C133-4639-9C2F-19014EBDDC90}|MNR\\MNR.csproj|c:\\users\\gruia\\downloads\\wpfapp1\\mnr\\mnr\\welcomepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63F80C50-C133-4639-9C2F-19014EBDDC90}|MNR\\MNR.csproj|solutionrelative:mnr\\welcomepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F80C50-C133-4639-9C2F-19014EBDDC90}|MNR\\MNR.csproj|c:\\users\\gruia\\downloads\\wpfapp1\\mnr\\mnr\\selectoctaveandinstrument.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63F80C50-C133-4639-9C2F-19014EBDDC90}|MNR\\MNR.csproj|solutionrelative:mnr\\selectoctaveandinstrument.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F80C50-C133-4639-9C2F-19014EBDDC90}|MNR\\MNR.csproj|c:\\users\\gruia\\downloads\\wpfapp1\\mnr\\mnr\\noteguesser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63F80C50-C133-4639-9C2F-19014EBDDC90}|MNR\\MNR.csproj|solutionrelative:mnr\\noteguesser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F80C50-C133-4639-9C2F-19014EBDDC90}|MNR\\MNR.csproj|c:\\users\\gruia\\downloads\\wpfapp1\\mnr\\mnr\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63F80C50-C133-4639-9C2F-19014EBDDC90}|MNR\\MNR.csproj|solutionrelative:mnr\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F80C50-C133-4639-9C2F-19014EBDDC90}|MNR\\MNR.csproj|c:\\users\\gruia\\downloads\\wpfapp1\\mnr\\mnr\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63F80C50-C133-4639-9C2F-19014EBDDC90}|MNR\\MNR.csproj|solutionrelative:mnr\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F80C50-C133-4639-9C2F-19014EBDDC90}|MNR\\MNR.csproj|c:\\users\\gruia\\downloads\\wpfapp1\\mnr\\mnr\\settings.settings||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{63F80C50-C133-4639-9C2F-19014EBDDC90}|MNR\\MNR.csproj|solutionrelative:mnr\\settings.settings||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F80C50-C133-4639-9C2F-19014EBDDC90}|MNR\\MNR.csproj|c:\\users\\gruia\\downloads\\wpfapp1\\mnr\\mnr\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{63F80C50-C133-4639-9C2F-19014EBDDC90}|MNR\\MNR.csproj|solutionrelative:mnr\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F80C50-C133-4639-9C2F-19014EBDDC90}|MNR\\MNR.csproj|c:\\users\\gruia\\downloads\\wpfapp1\\mnr\\mnr\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63F80C50-C133-4639-9C2F-19014EBDDC90}|MNR\\MNR.csproj|solutionrelative:mnr\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F80C50-C133-4639-9C2F-19014EBDDC90}|MNR\\MNR.csproj|c:\\users\\gruia\\downloads\\wpfapp1\\mnr\\mnr\\mailtodialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63F80C50-C133-4639-9C2F-19014EBDDC90}|MNR\\MNR.csproj|solutionrelative:mnr\\mailtodialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gruia\\Downloads\\WpfApp1\\WpfApp1\\WpfApp1\\MailToDialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|MNR||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63F80C50-C133-4639-9C2F-19014EBDDC90}|WpfApp1\\WpfApp1.csproj|c:\\users\\gruia\\downloads\\wpfapp1\\wpfapp1\\wpfapp1\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,31 +57,144 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MailToDialog.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Gruia\\Downloads\\WpfApp1\\WpfApp1\\WpfApp1\\MailToDialog.xaml.cs",
-              "RelativeDocumentMoniker": "WpfApp1\\MailToDialog.xaml.cs",
-              "ToolTip": "C:\\Users\\Gruia\\Downloads\\WpfApp1\\WpfApp1\\WpfApp1\\MailToDialog.xaml.cs",
-              "RelativeToolTip": "WpfApp1\\MailToDialog.xaml.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAuwBQAAAAAAAAAAAAAAA==",
+              "Title": "WelcomePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Gruia\\Downloads\\WpfApp1\\MNR\\MNR\\WelcomePage.xaml.cs",
+              "RelativeDocumentMoniker": "MNR\\WelcomePage.xaml.cs",
+              "ToolTip": "C:\\Users\\Gruia\\Downloads\\WpfApp1\\MNR\\MNR\\WelcomePage.xaml.cs",
+              "RelativeToolTip": "MNR\\WelcomePage.xaml.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAewCQAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T16:55:35.667Z",
+              "WhenOpened": "2024-10-21T18:48:00.83Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MNR",
-              "DocumentMoniker": "C:\\Users\\Gruia\\Downloads\\WpfApp1\\WpfApp1\\WpfApp1\\MNR.csproj",
-              "RelativeDocumentMoniker": "WpfApp1\\MNR.csproj",
-              "ToolTip": "C:\\Users\\Gruia\\Downloads\\WpfApp1\\WpfApp1\\WpfApp1\\MNR.csproj",
-              "RelativeToolTip": "WpfApp1\\MNR.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-10-21T16:53:33.139Z",
+              "Title": "SelectOctaveAndInstrument.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Gruia\\Downloads\\WpfApp1\\MNR\\MNR\\SelectOctaveAndInstrument.xaml.cs",
+              "RelativeDocumentMoniker": "MNR\\SelectOctaveAndInstrument.xaml.cs",
+              "ToolTip": "C:\\Users\\Gruia\\Downloads\\WpfApp1\\MNR\\MNR\\SelectOctaveAndInstrument.xaml.cs",
+              "RelativeToolTip": "MNR\\SelectOctaveAndInstrument.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAewBoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:47:10.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NoteGuesser.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Gruia\\Downloads\\WpfApp1\\MNR\\MNR\\NoteGuesser.xaml.cs",
+              "RelativeDocumentMoniker": "MNR\\NoteGuesser.xaml.cs",
+              "ToolTip": "C:\\Users\\Gruia\\Downloads\\WpfApp1\\MNR\\MNR\\NoteGuesser.xaml.cs",
+              "RelativeToolTip": "MNR\\NoteGuesser.xaml.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAewD8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:46:49.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Gruia\\Downloads\\WpfApp1\\MNR\\MNR\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MNR\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Gruia\\Downloads\\WpfApp1\\MNR\\MNR\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MNR\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAewCIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:46:34.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Settings.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Gruia\\Downloads\\WpfApp1\\MNR\\MNR\\Settings.Designer.cs",
+              "RelativeDocumentMoniker": "MNR\\Settings.Designer.cs",
+              "ToolTip": "C:\\Users\\Gruia\\Downloads\\WpfApp1\\MNR\\MNR\\Settings.Designer.cs",
+              "RelativeToolTip": "MNR\\Settings.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:46:09.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "C:\\Users\\Gruia\\Downloads\\WpfApp1\\MNR\\MNR\\Settings.settings",
+              "RelativeDocumentMoniker": "MNR\\Settings.settings",
+              "ToolTip": "C:\\Users\\Gruia\\Downloads\\WpfApp1\\MNR\\MNR\\Settings.settings",
+              "RelativeToolTip": "MNR\\Settings.settings",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwBYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2024-10-21T18:45:26.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "C:\\Users\\Gruia\\Downloads\\WpfApp1\\MNR\\MNR\\Settings.settings",
+              "RelativeDocumentMoniker": "MNR\\Settings.settings",
+              "ToolTip": "C:\\Users\\Gruia\\Downloads\\WpfApp1\\MNR\\MNR\\Settings.settings",
+              "RelativeToolTip": "MNR\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2024-10-21T18:44:47.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Gruia\\Downloads\\WpfApp1\\MNR\\MNR\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MNR\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Gruia\\Downloads\\WpfApp1\\MNR\\MNR\\MainPage.xaml.cs",
+              "RelativeToolTip": "MNR\\MainPage.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAewB0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:44:26.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MailToDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Gruia\\Downloads\\WpfApp1\\MNR\\MNR\\MailToDialog.xaml.cs",
+              "RelativeDocumentMoniker": "MNR\\MailToDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\Gruia\\Downloads\\WpfApp1\\MNR\\MNR\\MailToDialog.xaml.cs",
+              "RelativeToolTip": "MNR\\MailToDialog.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:43:38.792Z",
               "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MailToDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Gruia\\Downloads\\WpfApp1\\WpfApp1\\WpfApp1\\MailToDialog.xaml.cs",
+              "RelativeDocumentMoniker": "..\\WpfApp1\\WpfApp1\\MailToDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\Gruia\\Downloads\\WpfApp1\\WpfApp1\\WpfApp1\\MailToDialog.xaml.cs",
+              "RelativeToolTip": "..\\WpfApp1\\WpfApp1\\MailToDialog.xaml.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T16:55:35.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MNR",
+              "DocumentMoniker": "C:\\Users\\Gruia\\Downloads\\WpfApp1\\WpfApp1\\WpfApp1\\MNR.csproj",
+              "RelativeDocumentMoniker": "..\\WpfApp1\\WpfApp1\\MNR.csproj",
+              "ToolTip": "C:\\Users\\Gruia\\Downloads\\WpfApp1\\WpfApp1\\WpfApp1\\MNR.csproj",
+              "RelativeToolTip": "..\\WpfApp1\\WpfApp1\\MNR.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-21T16:53:33.139Z"
             }
           ]
         }
